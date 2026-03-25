@@ -6,4 +6,4 @@ Este projeto foi criado para a atividade de Git Flow da faculdade.
 
 Melhoria na documentação do projeto.
 
-Mensagem para registrar pull request
+Mensagem para registrar pull request.
